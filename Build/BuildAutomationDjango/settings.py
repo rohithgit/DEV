@@ -131,8 +131,8 @@ except:
     pass
 
 
-TO_ADDRESS = "rgundala@apple.com"
-FROM_ADDRESS = "rgundala@apple.com"
+TO_ADDRESS = "rgundala@att.com"
+FROM_ADDRESS = "rgundala@att.com"
 SVNUSER = 'ibuilder'
 SVNPASS = 'builder123'
 RADARUSER = 'i_builder'
