@@ -141,7 +141,7 @@ TAGNAME = 'None'
 EMAIL_MESSAGE = 'Build failed'
 
 
-SVN_URL = "https://istsvn.corp.apple.com:1080/SVNROOT/"
+SVN_URL = "https://svn.corp.att.com:1080/SVNROOT/"
 
 
 import djcelery
